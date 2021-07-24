@@ -1,5 +1,7 @@
 # cereo-r-S2021
 
+Processing and analysis of bike data.
+
 Notes for CEREO workshop
 
 My personal goals
