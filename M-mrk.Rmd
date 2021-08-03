@@ -1,0 +1,79 @@
+---
+title: "Mr report"
+author: 
+  - "Anas M."
+  - "Collaborator"
+date: "7/29/2021"
+abstract: |
+  This is our paragraph
+
+  It has two paras.
+
+output: html_document
+---
+# Header 1
+Bigger
+
+## Header 2
+Big
+
+### Header 3
+Pretty Big
+
+#### Header 4
+Bold face header 
+
+<!-- Horzontal rules -->
+
+****
+
+_____
+
+-----
+
+# Intro to Rmd formatting
+
+Here example of **bold** text, __bod__
+Here is an example of *italic*, _italic_
+Here is an example of ***bold italic***, ___bold italic___
+what about superscripts x^2^, subscript x~0~
+<u>underline</u>
+~~underline~~ = ***no***!
+
+Here example of **bold** text, __bod__
+Here is an example of *italic*, _italic_
+Here is an example of ***bold italic***, ___bold italic___
+what about superscripts x^2^, subscript x~0~
+<u>underline</u>
+~~underline~~ = ***no***!
+
+Here example of **bold** text, __bod__Here is an example of *italic*, _italic_Here is an example of ***bold italic***, ___bold italic___what about superscripts x^2^, subscript x~0~<u>underline</u>
+~~underline~~ = ***no***!
+
+<!-- Line breaks  -->
+
+Line 1  
+Line 2
+
+Line 1 <br>
+Line 2
+
+\* `<br>` starts a new line, not a paragraph
+
+<!-- paragraph -->
+
+topic 1> Topic para
+
+Topic 2. blah blah
+
+Topic 3. blah..blah...blah 
+
+<!-- Footnotes -->
+Here is a sentence with a footnote[^1]. This sentence follows footnote[^2].
+
+<!-- footnote section  -->
+
+[^1]: Here is the 1st footnote.
+[^2]: second footnote.
+
+git status
